@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-#This is the Alwaysdata api wrapper for acme.sh
+#This is the Arsys api wrapper for acme.sh
 #
 #Author: F.J. Cuberos
 
