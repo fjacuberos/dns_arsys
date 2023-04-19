@@ -10,7 +10,7 @@ Al no tener zonas la identificación del dominio se hace vía parámetro de conf
 - Una API KEY que nos autorice para acceder al dominio deseado. Se obtiene activando la opcion de API en la opción DNS del panel de control.
 - Una instalación funcional de acme.sh
 # 2. Instalación
-Copiar el shell a la carpeta dns_api de la instalación de acme.sh, por omisión en `~/.acme.sh/dnsapi`
+Copiar el shell a la carpeta dnsapi de la instalación de acme.sh, por omisión en `~/.acme.sh/dnsapi`
 Añadir en el fichero `account.conf` las líneas con nuestra API KEY y el dominio sobre el que da acceso:
 
 ```
