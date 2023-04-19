@@ -3,7 +3,8 @@
 #This is the Alwaysdata api wrapper for acme.sh
 #
 #Author: F.J. Cuberos
-#Report Bugs here: https://github.com/wpk-/acme.sh
+
+
 
 ARSYS_API_URL="https://api.servidoresdns.net:54321/hosting/api/soap/index.php"
 
